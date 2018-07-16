@@ -1,8 +1,7 @@
 ---
-title: "SeedboxTest"
+title: "Analysis"
 author: "Olivier Froment"
 date: '2018-07-15'
-output: word_document
 ---
   
   
